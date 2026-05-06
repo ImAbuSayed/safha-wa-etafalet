@@ -13,7 +13,7 @@
 | Lyric Writing Date | May 01, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/safha-wa-etafalet/) |
 | License | [View License](./LICENSE.md) |
-| Get License | [Get a Licensing Quote for Safha Wa Etafalet](https://music.abusayed.com.bd/Licensing/) |
+| Get License | [Commercial Licensing for Safha Wa Etafalet](https://music.abusayed.com.bd/Licensing/) |
 | Artist | Abu Sayed |
 
 ---
